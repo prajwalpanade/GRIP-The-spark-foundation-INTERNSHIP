@@ -1,2 +1,3 @@
-# GRIP-The-spark-foundation-task1_linear_regression
+# GRIP-The-spark-foundation-INTERNSHIP
+
 GRIP_Data_Science_Internship
